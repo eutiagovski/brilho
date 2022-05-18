@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/brilho/static/css/main.dfc1d655.css",
+    "main.js": "/brilho/static/js/main.296df320.js",
+    "index.html": "/brilho/index.html",
+    "main.dfc1d655.css.map": "/brilho/static/css/main.dfc1d655.css.map",
+    "main.296df320.js.map": "/brilho/static/js/main.296df320.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.dfc1d655.css",
+    "static/js/main.296df320.js"
+  ]
+}
